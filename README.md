@@ -33,7 +33,7 @@ public static void main(String[] args){
 
 ##1b:
 ##title:Quadratic equation
-'''java
+```java
 import java.util.Scanner;
 class QuadraticEquation{
   public static void main(String[] args){
@@ -70,5 +70,5 @@ class QuadraticEquation{
   }
 }
 
-'''
+```
 ##output
