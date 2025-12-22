@@ -72,3 +72,5 @@ class QuadraticEquation{
 
 ```
 ##output
+
+![output](experiment1b.png)
