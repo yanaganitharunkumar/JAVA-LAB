@@ -22,6 +22,9 @@ public static void main(String[] args){
   System.out.println("default value of byte:"+obj.b);
   }
 }
+
 ```
+
 ##output
+
 ![output](experiment1a.png)
