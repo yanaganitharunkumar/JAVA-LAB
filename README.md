@@ -147,7 +147,7 @@ System.out.println("Result of adding 3 integers:"+obj.add(10,20,30));
 
 
 ##2c:
-#title:
+#title:Constructor
 
 
 ```java
