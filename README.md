@@ -1,6 +1,6 @@
 # JAVA-LAB
-##1a:
-##title:Primitive data types
+## Experiment1a:
+## title:Primitive data types
 ```java
 class PrimitiveDataTypes{
   byte b;
@@ -26,14 +26,14 @@ public static void main(String[] args){
 
 ```
 
-##output
+## output
 
 ![output](experiment1a.png)
 
 
 
-##1b:
-##title:Quadratic equation
+## Experiment1b:
+## title:Quadratic equation
 ```java
 import java.util.Scanner;
 class QuadraticEquation{
@@ -72,18 +72,16 @@ class QuadraticEquation{
 }
 
 ```
-##output
+## output
 
 ![output](experiment1b.png)
 
 
 
 
-##2a:
+## Experiment2a:
 
-##title:Myclass
-
-
+## title:Myclass
 
 ```java
 class MyClass{
@@ -112,9 +110,9 @@ System.out.println("Addition of 2 num is:"+result);
 
 
 
-##2b:
+## Experiment2b:
 
-##title:OverloadExample
+## title:OverloadExample
 
 
 ```java
@@ -138,7 +136,7 @@ System.out.println("Result of adding 3 integers:"+obj.add(10,20,30));
 
 ```
 
-##output:
+## OUTPUT:
 
 
 
@@ -146,8 +144,8 @@ System.out.println("Result of adding 3 integers:"+obj.add(10,20,30));
 
 
 
-##2c:
-#title:Constructor
+## Experimnet2c:
+## title:Constructor
 
 
 ```java
@@ -173,7 +171,7 @@ s1.display();
 ```
 
 
-##output:
+## output:
 
 
 
