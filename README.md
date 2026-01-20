@@ -28,7 +28,7 @@ public static void main(String[] args){
 
 ## OUTPUT:
 
-![output](experiment1a.png)
+![output](experiment1/experiment1a.png)
 
 
 
