@@ -74,7 +74,7 @@ class QuadraticEquation{
 ```
 ## OUTPUT:
 
-![output](experiment1b.png)
+![output](experiment1/experiment1b.png)
 
 
 
