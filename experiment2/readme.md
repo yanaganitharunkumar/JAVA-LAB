@@ -25,7 +25,7 @@ System.out.println("Addition of 2 num is:"+result);
 
 
 
-![output](experiment2/2a.png)
+![output](2a.png)
 
 
 
@@ -60,7 +60,7 @@ System.out.println("Result of adding 3 integers:"+obj.add(10,20,30));
 
 
 
-![output](experiment2/2b.png)
+![output](2b.png)
 
 
 
@@ -89,10 +89,8 @@ s1.display();
 }
 }
 ```
-
-
 ## OUTPUT:
 
 
 
-![output](experiment2/2c.png)
+![output](2c.png)
