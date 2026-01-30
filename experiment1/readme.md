@@ -27,7 +27,7 @@ public static void main(String[] args){
 
 ## OUTPUT:
 
-![output](experiment1/experiment1a.png)
+![output](experiment1a.png)
 
 
 
@@ -73,6 +73,6 @@ class QuadraticEquation{
 ```
 ## OUTPUT:
 
-![output](experiment1/experiment1b.png)
+![output](experiment1b.png)
 
 
