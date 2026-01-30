@@ -97,7 +97,7 @@ public class ElectricBike extends Motorbike {
 ```
 
 ## output:
-![output](experiment4/4b.png)
+![output](4b.png)
 
 
 
@@ -160,4 +160,4 @@ public class TestFigure {
 ## output:
 
 
-![output](experiment4/4c.png)
+![output](4c.png)
