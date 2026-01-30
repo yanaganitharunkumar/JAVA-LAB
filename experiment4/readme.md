@@ -52,7 +52,7 @@ public class TestEmployee {
 
 #output:
 
-![output](experiment4/4a.png)
+![output](4a.png)
 )
 
 
