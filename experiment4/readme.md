@@ -52,7 +52,8 @@ public class TestEmployee {
 
 #output:
 
-![output]()
+![output](experiment4/4a.png)
+)
 
 
 
@@ -94,7 +95,9 @@ public class ElectricBike extends Motorbike {
     }
 }
 ```
-![output]()
+
+## output:
+![output](experiment4/4b.png)
 
 
 
@@ -157,4 +160,4 @@ public class TestFigure {
 ## output:
 
 
-![output]()
+![output](experiment4/4c.png)
