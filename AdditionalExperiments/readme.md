@@ -75,7 +75,7 @@ f.generate();
 
 
 
-![Output](AdditionalExperiment-4.png)
+![Output](AdditionalExperiment-2.png)
 
 ## 3:
 ## title:Palindrome:
