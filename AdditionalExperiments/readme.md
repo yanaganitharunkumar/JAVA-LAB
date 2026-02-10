@@ -26,7 +26,7 @@ System.out.println("Invalid position");
 ## output:
 
 
-![Output](AdditionalExperiments/AdditionalExperiment-1.png)
+![Output](AdditionalExperiment-1.png)
 
 
 
@@ -57,7 +57,7 @@ System.out.println(str+" is a palindrome");
 
 ## output:
 
-![Output](AdditionalExperiments/AdditionalExperiment-3.png)
+![Output](AdditionalExperiment-3.png)
 
 ## 4:
 ## title:Perfect Number:
@@ -86,4 +86,4 @@ System.out.println(num + "num is not a perfect number.");
 
 
 
-![output](AdditionalExperiments/AddtionalExperiment-4.png)
+![output](AddtionalExperiment-4.png)
