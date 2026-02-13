@@ -38,8 +38,8 @@ To become a skilled software developer and build impactful web applications.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Add your email here)
+- 💼 LinkedIn: ()
+- 📧 Email: (yanaganitharunkumar@gmail.com)
 
 ---
 
