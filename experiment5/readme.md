@@ -112,3 +112,108 @@ public class TestSort {
 
 
 ![Output](5a.png)
+
+
+
+## 5B:
+## title:RunTime Polymorphism
+```java
+#5B
+
+Vehicle.java
+
+class Vehicle {
+    void run() {
+        System.out.println("Vehicle is running");
+    }
+}
+
+
+
+Car.java
+
+class Car extends Vehicle {
+    void run() {
+        System.out.println("Car is running on four wheels");
+    }
+}
+
+
+Bike.java
+
+class Bike extends Vehicle {
+    void run() {
+        System.out.println("Bike is running on two wheels");
+    }
+}
+
+
+TestVehicle.java
+
+
+public class TestVehicle {
+    public static void main(String[] args) {
+
+        Vehicle v;
+
+        v = new Car();
+        v.run();
+
+        v = new Bike();
+        v.run();
+
+        v = new Vehicle();
+        v.run();
+    }
+}
+
+
+```
+
+## Output:
+
+
+
+
+![Output](5b.png)
+
+
+
+
+
+
+## 5C:
+## title:String Buffer
+
+```java
+
+#5C
+
+DeleteStringBuffer.java
+
+
+public class DeleteStringBuffer {
+    public static void main(String[] args) {
+
+        StringBuffer sb = new StringBuffer("Java Programming");
+
+        System.out.println("Original String: " + sb);
+
+        sb.deleteCharAt(4);
+        System.out.println("After deleting character at index 4: " + sb);
+
+        sb.delete(0, 4);
+        System.out.println("After deleting range (0 to 4): " + sb);
+    }
+}
+
+```
+
+
+## Output:
+
+
+
+
+
+![output](5c.png)
