@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj Tharun
+# 👋 Hi, I'm Yanagani Tharun Kumar!
 
 🎓 Diploma Graduate  
 🚀 Preparing for ECET AP  
