@@ -1,32 +1,46 @@
-
-# Hi 👋 I'm Raj Tharun
+# 👋 Hi, I'm Raj Tharun
 
 🎓 Diploma Graduate  
-💻 Interested in Web Development & Java  
 🚀 Preparing for ECET AP  
-🏢 Intern at Hitachi Terminal Solutions  
+💻 Passionate about Web Development & Java  
+🏢 Intern at Hitachi Terminal Solutions (ATM Manufacturing)
 
 ---
 
-## 🔥 Skills
-- HTML, CSS
-- Java
-- Basic Ethical Hacking
-- Git & GitHub
+## 🛠️ Skills
+
+- 💻 HTML, CSS  
+- ☕ Java  
+- 🔐 Basic Ethical Hacking  
+- 🗄️ Git & GitHub  
 
 ---
 
-## 📂 Projects
-- 🎓 Student Portal Website
-- 🔐 Basic Login Authentication System
-- 📊 Attendance Dashboard
-
----
-
-## 📫 Contact
-- LinkedIn: (your link)
-- Email: (your email)
-
-
+## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanaganitharunkumar&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+- 🎓 Student Portal Website  
+- 🔐 Login Authentication System  
+- 📊 Attendance Dashboard  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+
+---
+
+⭐️ Thanks for visiting my profile!
