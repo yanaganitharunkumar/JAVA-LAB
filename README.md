@@ -9,38 +9,38 @@
 
 ## 🛠️ Skills
 
-- 💻 HTML, CSS  
-- ☕ Java  
-- 🔐 Basic Ethical Hacking  
-- 🗄️ Git & GitHub  
+- HTML
+- CSS
+- Java
+- Git & GitHub
+- Basic Ethical Hacking
 
 ---
 
-## 📊 My GitHub Stats
+## 📂 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### 🎓 Student Portal Website
+A simple student dashboard with login system and clean UI design.
+
+### 🔐 Login Authentication System
+Basic authentication project using HTML and CSS.
+
+### 📊 Attendance Dashboard
+Responsive attendance tracking interface.
 
 ---
 
-## 🔥 Top Languages
+## 🎯 Career Goal
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanaganitharunkumar&layout=compact&theme=tokyonight)
-
----
-
-## 📂 Featured Projects
-
-- 🎓 Student Portal Website  
-- 🔐 Login Authentication System  
-- 📊 Attendance Dashboard  
+To become a skilled software developer and build impactful web applications.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: (Add your link here)
+- 📧 Email: (Add your email here)
 
 ---
 
-⭐️ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
